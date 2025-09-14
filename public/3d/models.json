@@ -1,0 +1,19 @@
+{
+  "models": [
+    {
+      "name": "cyber_shield",
+      "path": "/3d/cyber_shield.gltf",
+      "description": "3D cybersecurity shield model"
+    },
+    {
+      "name": "hexagon_grid",
+      "path": "/3d/hexagon_grid.gltf",
+      "description": "Animated hexagonal grid pattern"
+    },
+    {
+      "name": "lock_icon",
+      "path": "/3d/lock_icon.gltf",
+      "description": "3D lock security icon"
+    }
+  ]
+}
